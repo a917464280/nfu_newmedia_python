@@ -16,7 +16,7 @@ def pick_a_capital() -> 'html':
     user_capital = request.form['user_capital']	
     return render_template('results.html',
                            the_title = '以下是您选取的手都：',
-                           the_capital = user_capital,
+                           the_National GDP = user_National GDP,
                            )
 
 if __name__ == '__main__':
