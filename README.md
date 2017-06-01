@@ -1,7 +1,26 @@
-# 中山大学南方学院 2016 - 2017 
-# 文学与传媒系【Python】分组项目
+pick_a_capital_4web
 
-说明：
-* 详细内容见[pick_a_color_4web](pick_a_color_4web)，请各组选定一代表用户做主（owner），fork此仓库名称repo为nfu_newmedia_python的仓库，直接在此forked仓库内新创个目录。建议可以直接复制pick_a_color_4web改档名。
-* 请填表 [list_projects.tsv](list_projects.tsv)（以tab隔开，一组一行）
- 
+
+		
+# 简介 
+选取的国家，操练Python语言开发练习：使用flask
+
+
+		
+## 输入：
+用户输入国家
+## 输出：
+用户得到输出结果为：首都
+## 从输入到输出，本组作品使用了：
+### 模块
+* [csv](https://github.com/thephpleague/csv)
+### 数据
+* [简中CLDR country-capitals](https://github.com/chenweishan/country-capitals/blob/master/data/country-list.json)
+### API
+* [github](https://api.github.com/)
+
+## 作者成员：
+见[_team_.tsv](_team_/_team_.tsv)
+
+
+		成员列表，统计用，一人一行，输入Github 帐户名即可（此行完成後应删）
