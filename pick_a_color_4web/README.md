@@ -6,16 +6,14 @@ pick_a_capital_4web
 选取的国家，操练Python语言开发练习：使用flask
 
 
-		中文简介项目内容（此行完成後应删）
-
+		
 ## 输入：
 用户输入国家
 ## 输出：
 用户得到输出结果为：首都
 ## 从输入到输出，本组作品使用了：
 ### 模块
-* [folium](https://github.com/python-visualization/folium)
-* [opencv](http://opencv.org/)
+* [csv](https://github.com/thephpleague/csv)
 ### 数据
 * [简中CLDR localenames](https://github.com/unicode-cldr/cldr-localenames-modern/blob/master/main/zh-Hans/territories.json)
 ### API
