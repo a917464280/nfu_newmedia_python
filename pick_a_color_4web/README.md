@@ -15,7 +15,7 @@ pick_a_capital_4web
 ### 模块
 * [csv](https://github.com/thephpleague/csv)
 ### 数据
-* [简中CLDR localenames](https://github.com/unicode-cldr/cldr-localenames-modern/blob/master/main/zh-Hans/territories.json)
+* [简中CLDR country-capitals](https://github.com/chenweishan/country-capitals/blob/master/data/country-list.json)
 ### API
 * [github](https://api.github.com/)
 
