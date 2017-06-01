@@ -1,21 +1,22 @@
-pick_a_capital_4web
+pick_a_national_GDP_4web
 
 
 		
 # 简介 
-选取的国家，操练Python语言开发练习：使用flask
+选取的国家名称，操练Python语言开发练习：使用flask
 
 
 		
 ## 输入：
-用户输入国家
+用户输入国家名称
 ## 输出：
-用户得到输出结果为：首都
+用户得到输出结果为：该国家近年的GDP
 ## 从输入到输出，本组作品使用了：
 ### 模块
 * [csv](https://github.com/thephpleague/csv)
 ### 数据
-* [简中CLDR country-capitals](https://github.com/chenweishan/country-capitals/blob/master/data/country-list.json)
+* [country-name](https://github.com/hanteng/country-names/blob/master/data/CLDR_country_name_zh-Hans.tsv)
+* [national_GDP]
 ### API
 * [github](https://api.github.com/)
 
